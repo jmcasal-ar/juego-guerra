@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Juego de Guerra/1.0.0": {
+        "runtime": {
+          "Juego de Guerra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Juego de Guerra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

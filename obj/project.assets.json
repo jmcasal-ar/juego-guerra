@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\casal\\Documents\\Modelos de Software\\Zip clase 1\\Juego de Guerra\\Ejercicio Clase 2 Composite.csproj",
-      "projectName": "Ejercicio Clase 2 Composite",
-      "projectPath": "C:\\Users\\casal\\Documents\\Modelos de Software\\Zip clase 1\\Juego de Guerra\\Ejercicio Clase 2 Composite.csproj",
+      "projectUniqueName": "C:\\Users\\casal\\Documents\\Modelos de Software\\Zip clase 1\\Juego de Guerra\\Juego de Guerra.csproj",
+      "projectName": "Juego de Guerra",
+      "projectPath": "C:\\Users\\casal\\Documents\\Modelos de Software\\Zip clase 1\\Juego de Guerra\\Juego de Guerra.csproj",
       "packagesPath": "C:\\Users\\casal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\casal\\Documents\\Modelos de Software\\Zip clase 1\\Juego de Guerra\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,13 @@
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.exe
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.deps.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.runtimeconfig.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.runtimeconfig.dev.json
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.dll
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\bin\Debug\netcoreapp3.1\Juego de Guerra.pdb
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.csprojAssemblyReference.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.AssemblyInfoInputs.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.AssemblyInfo.cs
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.csproj.CoreCompileInputs.cache
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.dll
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.pdb
+C:\Users\casal\Documents\Modelos de Software\Zip clase 1\Juego de Guerra\obj\Debug\netcoreapp3.1\Juego de Guerra.genruntimeconfig.cache
